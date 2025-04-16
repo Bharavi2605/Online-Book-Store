@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+    background: red;
+    color: white;
+    border-radius: 5px;
+}
+
+a:hover {
+    background: darkred;
+}

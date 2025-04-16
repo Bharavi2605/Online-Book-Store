@@ -1,0 +1,125 @@
+/* Admin Panel Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f0fc;
+    margin: 0;
+    padding: 0;
+}
+
+.admin-container {
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #6a0dad;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background: #4a0072;
+    border-radius: 5px;
+}
+
+.admin-content {
+    margin-top: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background: green;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background: darkgreen;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #f8f8f8;
+}
+
+button {
+    background: green;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkgreen;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+

@@ -101,7 +101,7 @@ $database = "bookstore";
 ## Usage
 1.Access the Website
 
-Visit http://localhost/online-bookstore in your browser.
+Visit http://localhost/bookstorenew in your browser.
 
 2.As a New User
 

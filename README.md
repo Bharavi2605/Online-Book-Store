@@ -58,29 +58,41 @@ just download the ZIP file and extract it.
 2.Move the Project to XAMPP Directory
 
 Move the folder to C:\xampp\htdocs\ (Windows)
+
 Example path: C:\xampp\htdocs\online-bookstore\
 
 3.Start Apache and MySQL
 
 Open XAMPP Control Panel.
+
 Click Start for both Apache and MySQL.
 
 4.Create the Database
 
 Open http://localhost/phpmyadmin.
+
 Create a database named bookstoredb.
+
 Import the SQL file:
+
 Click Import
+
 Choose bookstore.sql (provided with the project).
+
 Click Go.
 
 5.Update Database Configuration (Optional)
+
 Open database.php
+
 Make sure the database credentials match your setup:
 
 $host = "localhost";
+
 $user = "root";
+
 $password = "";
+
 $database = "bookstore";
 
 
@@ -88,14 +100,21 @@ $database = "bookstore";
 
 ## Usage
 1.Access the Website
+
 Visit http://localhost/online-bookstore in your browser.
 
 2.As a New User
+
 Register using signup.php
+
 Login and browse books, add to cart, and place an order.
 
 3.As Admin
+
    Login using the admin credentials (e.g., admin@example.com, password: admin123)
+   
    Access:
+   
       manage_books.php to add/edit/delete books
+      
       manage_orders.php to view customer orders

@@ -39,28 +39,6 @@ The Online Bookstore aims to create a user-friendly platform where book lovers c
 
 ---
 
-## 🏗️ Project Structure
-bookstore/ │ 
-├── add_book.php # Admin adds books 
-├── books.php # Display books to users 
-├── cart.php # User cart handling 
-├── checkout.php # Checkout process 
-├── database.php # MySQL DB connection 
-├── delete_book.php # Admin deletes book 
-├── edit_book.php # Admin edits book details 
-├── index.php # Homepage / login redirect 
-├── login.php # User login 
-├── logout.php # User logout 
-├── manage_books.php # Admin view/edit/delete books 
-├── manage_orders.php # Admin views customer orders 
-├── order_success.php # Order confirmation page 
-├── signup.php # New user registration 
-├── uploads/ # Folder for cover images 
-├── styles_books.css # Book listings CSS 
-├── styles_checkout.css # Checkout page CSS 
-├── styles_success.css # Order success CSS 
-
----
 
 ## 🛠️ Technologies Used
 

@@ -111,7 +111,7 @@ Login and browse books, add to cart, and place an order.
 
 3.As Admin
 
-   Login using the admin credentials (e.g., admin@example.com, password: admin123)
+   Login using the admin credentials (e.g., admin@example.com, password: Admin123)
    
    Access:
    
